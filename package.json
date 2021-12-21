@@ -1,0 +1,14 @@
+{
+    "name": "weatherappnodejs",
+    "version": "1.0.0",
+    "description": "creating a weather nodejs app",
+    "main": "index.js",
+    "scripts": {
+        "start":"node index.js"
+    },
+    "author": "Yuvraj Sharma",
+    "license": "ISC",
+    "dependencies": {
+        "requests": "^0.3.0"
+    }
+}
